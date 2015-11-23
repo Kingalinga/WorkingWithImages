@@ -1,10 +1,8 @@
 PImage pepe;
-<<<<<<< HEAD
+
 PImage  cena;
 
-=======
-PImage cena;
->>>>>>> refs/remotes/origin/filter-image
+
 void setup() {
   size(398, 409);
   pepe= loadImage("LeftSharkPepe.jpg");
